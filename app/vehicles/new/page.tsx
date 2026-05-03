@@ -38,7 +38,7 @@ if (error) {
   return;
 }
 
-    const link = `http://localhost:3000/vehicle/${token}`;
+    const link = `https://autolog-tr-kaan.vercel.app/vehicle/${token}`;
 
     setQrLink(link);
 
