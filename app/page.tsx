@@ -4,14 +4,6 @@ export default function Home() {
       <h1>AutoLog TR</h1>
       <p>QR kod ile araç bakım geçmişi sistemi</p>
 
-      <a href="/vehicles/new">Araç Ekle</a>
-    </main>
-    export default function Home() {
-  return (
-    <main style={{ padding: 40 }}>
-      <h1>AutoLog TR</h1>
-      <p>QR kod ile araç bakım geçmişi sistemi</p>
-
       <p>
         <a href="/login">Servis Girişi</a>
       </p>
@@ -24,7 +16,5 @@ export default function Home() {
         <a href="/vehicles/new">Araç Ekle</a>
       </p>
     </main>
-  );
-}
   );
 }
